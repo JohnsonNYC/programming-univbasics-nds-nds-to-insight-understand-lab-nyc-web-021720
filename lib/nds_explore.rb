@@ -6,12 +6,10 @@ require 'pry'
 
 def pretty_print_nds(nds)
 pp nds
-binding.pry
 end
 
 pp directors_database
 
 def print_first_directors_movie_titles
-  
 
 end 
